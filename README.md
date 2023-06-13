@@ -1,3 +1,3 @@
-- 👋 Hey! I’m Meer Adeel.
+- 👋 Hey! I’m Meer Adeel Sarbazzy.
 - 👀 I’m currently working on Flutter, Android Applications.
 - 🌱 I’m currently learning machine learning.
