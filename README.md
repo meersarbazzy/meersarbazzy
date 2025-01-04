@@ -21,7 +21,6 @@
 
 ---
 
-
 ## 💳 GitHub Profile Summary Card  
 
 ![GitHub Profile Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=meersarbazzy&theme=radical)  
